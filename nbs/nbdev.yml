@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "CropdisV2"
+  site-url: "https://robeson1010.github.io/CropdisV2"
+  description: "Cropdis"
+  repo-branch: main
+  repo-url: "https://github.com/robeson1010/CropdisV2"
